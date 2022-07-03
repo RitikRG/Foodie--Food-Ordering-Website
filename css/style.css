@@ -136,7 +136,7 @@ p{
 @media only screen and (min-width:771px){
     .topbannerbg{
         width: 100vw;
-        background: url(/images/bg/bg-1.jpg) no-repeat center;
+        background: url(./images/bg/bg-1.jpg) no-repeat center;
         background-size: cover;
         padding: 16.975rem 0rem 9.75rem;
     }
@@ -202,7 +202,7 @@ h5.about-2-heading{
     font-weight: 700;
 }
 div.about-2{
-    background: url(/images/bg/bg-2.jpg) no-repeat center;
+    background: url(./images/bg/bg-2.jpg) no-repeat center;
     background-size: cover;
     height: 400px;
 }
@@ -239,7 +239,7 @@ span.faq-mark{
     color: var(--primary-color);
 }
 div.parallax{
-    background-image: url(/images/bg/bg-3.jpg)!important;
+    background-image: url(./images/bg/bg-3.jpg)!important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
